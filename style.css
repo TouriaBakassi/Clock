@@ -17,7 +17,7 @@ color: white;
     width: 340px;
     height: 340px;
     /* border: 7px solid rgb(248, 160, 179); */
-    border: 7px solid white;
+    border: 10px solid white;
     background-color: black;
     border-radius: 50%;
     margin: 80px auto;
@@ -30,7 +30,7 @@ color: white;
     background-color: white;
     border-radius: 50%;
     top: 50%;
-    right: 49%;
+    right: 48%;
     z-index: 10;
 }
 .number{
@@ -99,21 +99,21 @@ color: white;
     transform-origin: bottom;
 }
 .second{
-    top: 28%;
-    right: 51.3%;
+    top: 28.5%;
+    right: 50%;
     height: 80px;
     background-color: rgba(48, 190, 208, 0.902);
      
 }
 .minute{
-    top: 28%;
-    right: 51.3%;
+    top: 28.5%;
+    right: 50.4%;
     height: 80px;
-    background-color: white;
+    background-color: rgb(175, 44, 44);
 }
 .heur{
-    top: 34%;
-    right: 51.3%;
+    top: 35%;
+    right: 50%;
     height: 60px;
     background-color: rgb(252, 140, 191);  
 }
